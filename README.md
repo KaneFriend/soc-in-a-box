@@ -22,13 +22,14 @@ This is a complete, automated deployment of a production-grade SOC on free hardw
 ---
 
 ### Quickstart:
-pending
+pending...
 
 ---
 
 ### Documentation:
-pending
+pending...
 
+---
 
 ### Project techstack:
 
