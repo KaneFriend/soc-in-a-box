@@ -39,6 +39,8 @@ pending...
 - Sysmon(Linux)
 - Bash & Python
 
+---
+
 ### Production experience:
 
 This project is to showcase my skillset with my enterprise experience, surrounding:
